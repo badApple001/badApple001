@@ -11,7 +11,7 @@
 
 ## Socials
 <div align="center">
-  <a href="https://twitter.com/gregcodesstuff">
+  <a href="https://twitter.com/JackChe78220965">
   <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/tw.png"/>
 </a>
 
