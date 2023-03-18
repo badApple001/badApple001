@@ -4,8 +4,8 @@
 <p>I am a recently graduated Software Enginnering student from the <a href="https://www.iit.edu/">Illinois institute of Technology</a> in Chicago, Illinois. I am passionate about blockchain, fintech and machine learning. When I'm not coding, I love to write articles on medium or draw. My languages of choice are Python, C#, C++ and Rust. Feel free to reach out and connect if there is a project or postion that you think I would be suitable for, or if you just want to say hi. 
 </em></p>
 
-[![GitHub Greg](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/gregyjames)
-[![Twitter Greg](https://img.shields.io/twitter/follow/gregcodesstuff?label=Follow)](https://twitter.com/gregcodesstuff)
+[![GitHub Greg](https://img.shields.io/github/followers/badApple001?label=follow&style=social)](https://github.com/badApple001)
+[![Twitter Greg](https://img.shields.io/twitter/follow/gregcodesstuff?label=Follow)](https://twitter.com/JackChe78220965)
 
 ![Greg's User Stats](https://github-readme-stats.vercel.app/api?username=badApple001&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
