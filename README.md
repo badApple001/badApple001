@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/18a55e97-f175-44d4-b269-5e148339a0d8.svg)](https://wakatime.com/@18a55e97-f175-44d4-b269-5e148339a0d8)
 <img src="https://github.com/badApple001/badApple001/blob/main/images/github_geek7.png">
 <h2>Hi, I'm Geek7!</h2>
-<p>I am a recently graduated Software Enginnering student from the <a href="https://www.iit.edu/">Illinois institute of Technology</a> in Chicago, Illinois. I am passionate about blockchain, fintech and machine learning. When I'm not coding, I love to write articles on medium or draw. My languages of choice are Python, C#, C++ and Rust. Feel free to reach out and connect if there is a project or postion that you think I would be suitable for, or if you just want to say hi. 
+<p>I am a master of <a href="https://space.bilibili.com/453528870">bilibili Wild Technology Society</a>. I'm passionate about game development, hardware programming, and machine learning. When I'm not programming, I like to write articles in the media or flirt with girls. My languages of choice are C++, c#, python, and Javascript. You can learn and grow together if you are an extreme developer.
 </em></p>
 
 [![GitHub Greg](https://img.shields.io/github/followers/badApple001?label=follow&style=social)](https://github.com/badApple001)
