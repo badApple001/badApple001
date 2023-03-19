@@ -14,7 +14,7 @@
  <a href="https://blog.csdn.net/qq_39162566">
   <img  width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/csdn.svg"/>
    <a href="https://space.bilibili.com/453528870">
-  <img  width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/icon_bilibili-square.svg"/>
+  <img  width="55" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/icon_bilibili-square.svg"/>
  <a href="https://twitter.com/JackChe78220965">
   <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/tw.png"/>
 </a>
