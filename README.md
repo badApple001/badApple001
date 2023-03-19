@@ -1,4 +1,3 @@
-[![csdn](https://github.com/badApple001/badApple001/blob/main/images/csdn.svg)](https://blog.csdn.net/qq_39162566)
 <img src="https://github.com/badApple001/badApple001/blob/main/images/github_geek7.png">
 <h2>Hi, I'm Geek7!</h2>
 <p>I am a master of <a href="https://space.bilibili.com/453528870">bilibili Wild Technology Society</a>. I'm passionate about game development, hardware programming, and machine learning. When I'm not programming, I like to write articles in the media or flirt with girls. My languages of choice are C++, c#, python, and Javascript. You can learn and grow together if you are an extreme developer.
@@ -14,6 +13,8 @@
   <a href="https://twitter.com/JackChe78220965">
   <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/tw.png"/>
 </a>
+
+[![csdn](https://github.com/badApple001/badApple001/blob/main/images/csdn.svg)](https://blog.csdn.net/qq_39162566)
 
 <a href="https://medium.com/@thegregjames">
   <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/medium.png"/>
