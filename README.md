@@ -9,12 +9,13 @@
 ![Greg's User Stats](https://github-readme-stats.vercel.app/api?username=badApple001&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## Socials
+
+[![csdn](https://github.com/badApple001/badApple001/blob/main/images/csdn.svg)](https://blog.csdn.net/qq_39162566)
+
 <div align="center">
   <a href="https://twitter.com/JackChe78220965">
   <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/tw.png"/>
 </a>
-
-[![csdn](https://github.com/badApple001/badApple001/blob/main/images/csdn.svg)](https://blog.csdn.net/qq_39162566)
 
 <a href="https://medium.com/@thegregjames">
   <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/medium.png"/>
