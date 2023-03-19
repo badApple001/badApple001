@@ -13,17 +13,9 @@
 <div align="center">
  <a href="https://blog.csdn.net/qq_39162566">
   <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/csdn.svg"/>
+   <a href="https://space.bilibili.com/453528870">
+  <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/icon_bilibili-circle.svg"/>
  <a href="https://twitter.com/JackChe78220965">
   <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/tw.png"/>
-</a>
-  <a href="https://twitter.com/JackChe78220965">
-  <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/tw.png"/>
-</a>
-
-<a href="https://medium.com/@thegregjames">
-  <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/medium.png"/>
-</a>
-<a href="https://www.linkedin.com/in/gregory-james/">
-  <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/li.png" />
 </a>
   </div>
