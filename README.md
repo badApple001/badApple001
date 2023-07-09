@@ -1,6 +1,6 @@
 <img src="https://github.com/badApple001/badApple001/blob/main/images/github_geek7.png">
 <h2>Hi, I'm Geek7!</h2>
-<p>I am a up of <a href="https://space.bilibili.com/453528870">bilibili Wild Technology Society</a>. I'm passionate about game development, hardware programming, and machine learning. When I'm not programming, I like to write articles in the media or flirt with girls. My languages of choice are C++, c#, python, and Javascript. You can learn and grow together if you are an extreme developer.
+<p>I am a up of <a href="https://space.bilibili.com/453528870">bilibili Wild Technology Society</a>. I'm passionate about game development, hardware programming, and machine learning. When I'm not programming, I like to write articles in the media or reading. My languages of choice are C++, c#, python, and Javascript. You can learn and grow together if you are an extreme developer.
 </em></p>
 
 [![GitHub Greg](https://img.shields.io/github/followers/badApple001?label=follow&style=social)](https://github.com/badApple001)
