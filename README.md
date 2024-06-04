@@ -4,7 +4,7 @@
 </em></p>
 
 [![GitHub Greg](https://img.shields.io/github/followers/badApple001?label=follow&style=social)](https://github.com/badApple001)
-[![Gitee Greg](https://img.shields.io/gitee/followers/welcome2jcSpace?label=follow&style=social)](https://gitee.com/welcome2jcSpace)
+[![Gitee Greg](https://img.shields.io/badge/gitee-red)](https://gitee.com/welcome2jcSpace)
 
 ![Greg's User Stats](https://github-readme-stats.vercel.app/api?username=badApple001&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
