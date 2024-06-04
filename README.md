@@ -9,7 +9,7 @@
 
 ## Socials
 
-<div align="center">
+<div align="left">
  <a href="https://blog.csdn.net/qq_39162566">
   <img  width="100" height="50" src="https://img-home.csdnimg.cn/images/20211028053651.png"/>
    <a href="https://space.bilibili.com/453528870">
