@@ -16,7 +16,7 @@
    <a href="https://space.bilibili.com/453528870">
  <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/icon_bilibili-square.png"/>
 </a>
- <a href="https://twitter.com/JackChe78220965">
-  <img width="50" alt="" width="22px" src="https://github.com/badApple001/badApple001/blob/main/images/tw.png"/>
+ <a href="https://www.geek7.top">
+  <img width="50" alt="" width="22px" src="https://s2.loli.net/2024/06/04/4wOWHJVtUoie8MQ.jpg"/>
 </a>
   </div>
