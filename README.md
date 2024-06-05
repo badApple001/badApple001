@@ -1,4 +1,4 @@
-<img src="https://github.com/badApple001/badApple001/blob/main/images/github_geek7.jpg">
+<img src="https://github.com/badApple001/badApple001/blob/main/images/github_lb.jpg">
 <h2>Hi, I'm Geek7!</h2>
 <p>Thank you very much for browsing. I hope my sharing can help you.
 </em></p>
