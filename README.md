@@ -1,4 +1,7 @@
-<img src="https://github.com/badApple001/badApple001/blob/main/images/github_lb.jpg">
+<a href="https://space.bilibili.com/453528870">
+ <img src="https://github.com/badApple001/badApple001/blob/main/images/github_lb.jpg"/>
+</a>
+
 <h2>Hi, I'm Geek7!</h2>
 <p>Thank you very much for browsing. I hope my sharing can help you.
 </em></p>
