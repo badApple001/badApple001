@@ -1,8 +1,8 @@
-#<a href="https://www.geek7.top/mysite">
-# <img src="https://github.com/badApple001/badApple001/blob/main/images/112389669_p1.png"/>
-#</a>
+<a href="https://www.geek7.top/mysite">
+<img src="https://github.com/badApple001/badApple001/blob/main/images/aky.gif"/>
+</a>
 
-<h2>Hi, I'm Geek7!</h2>
+<h2>Hava a nice day!</h2>
 <p>Thank you very much for browsing. I hope my sharing can help you.
 </em></p>
 
