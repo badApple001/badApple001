@@ -1,7 +1,6 @@
 
-<h2>Hava a nice day!</h2>
-<p>Thank you very much for browsing. I hope my sharing can help you.
-</em></p>
+<h2>Thank you very much for browsing. I hope my sharing can help you.
+</em></h2>
 
 [![GitHub Greg](https://img.shields.io/github/followers/badApple001?label=follow&style=social)](https://github.com/badApple001)
 [![Gitee Greg](https://img.shields.io/badge/gitee-red)](https://gitee.com/welcome2jcSpace)
