@@ -1,6 +1,3 @@
-<a href="https://www.geek7.top/mysite">
-<img src="https://github.com/badApple001/badApple001/blob/main/images/aky.gif"/>
-</a>
 
 <h2>Hava a nice day!</h2>
 <p>Thank you very much for browsing. I hope my sharing can help you.
