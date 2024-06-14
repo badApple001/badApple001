@@ -5,11 +5,7 @@
 
 [![GitHub Greg](https://img.shields.io/github/followers/badApple001?label=follow&style=social)](https://github.com/badApple001)
 [![Gitee Greg](https://img.shields.io/badge/gitee-red)](https://gitee.com/welcome2jcSpace)
-
-![Greg's User Stats](https://github-readme-stats.vercel.app/api?username=badApple001&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 ## Socials
-
 <div align="left">
  <a href="https://blog.csdn.net/qq_39162566">
   <img  width="100" height="50" src="https://img-home.csdnimg.cn/images/20211028053651.png"/>
